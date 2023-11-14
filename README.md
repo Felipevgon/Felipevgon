@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Felipevgon
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Excel, SQL and Power BI
+- 💞️ I’m looking to collaborate on dashboards, story-telling and parallel projects
+- 📫 How to reach me - felipevgoncalves@gmail.com
